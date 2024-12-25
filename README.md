@@ -45,8 +45,6 @@ This project uses the [REST Countries API](https://restcountries.com/) to fetch 
 ## Developers
 
 Cedric Kent Centeno
-- Email: cdrcknt@gmail.com
-- GitHub: [@cdrcknt](https://github.com/cdrcknt)
 
 ## License
 
